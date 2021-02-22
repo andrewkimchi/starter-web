@@ -11,5 +11,7 @@ This is dummy text
 ## Purpose
 
 Sample website with plenty of files for demos
+lolol this is dummy text
 ## How to Contribute
 ## Deployment
+alsdkf;alskdjf;alsdifj
