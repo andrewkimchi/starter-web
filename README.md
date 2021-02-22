@@ -17,3 +17,5 @@ lolol this is dummy text
 alsdkf;alskdjf;alsdifj
 
 2021 Git training
+
+This change was made after simple-changes was created
