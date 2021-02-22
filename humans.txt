@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andrew Kim developer andrewkimchi@twitter.com
 
 # THANKS
 
