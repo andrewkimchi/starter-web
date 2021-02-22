@@ -6,6 +6,8 @@ This is a sample website
 
 ## Introduction
 
+This is dummy text
+
 ## Purpose
 
 Sample website with plenty of files for demos
